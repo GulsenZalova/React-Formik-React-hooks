@@ -1,0 +1,25 @@
+.App{
+  /* height: 100vh; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  background-color: rgb(10, 89, 89);
+  color: white;
+  gap: 100px;
+}
+
+.formik-form form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+ input{
+  padding: 10px;
+}
+
+form{
+  width: 100%;
+}
